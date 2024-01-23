@@ -1,4 +1,4 @@
-TOKEN = '5973363662:AAH-dC-JuuPB-qubiMprHVvhNcdwmcv1psY'
+TOKEN = 'скрыто'
 
 keys = {'евро': 'EUR',
         'доллар': 'USD',
